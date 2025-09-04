@@ -2,7 +2,9 @@
 
 This experiment focused on finding the optimal parameters for Perlin Noise to recreate a Minecraft-like world.
 
-During the experiment I used 4 python files and wrote a 4000 word essay explaining the entire research process, experiment methodoly and results.
+During the experiment I used 4 python files together with the block textures found in the assets folder.
+
+I also wrote a 4000 word essay explaining the entire research process, experiment methodoly and results.
 
 ## 🐍 Python Files
 ### Main
