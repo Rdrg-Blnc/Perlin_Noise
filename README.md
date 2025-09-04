@@ -6,6 +6,13 @@ During the experiment I used 4 python files together with the block textures fou
 
 I also wrote a 4000 word essay explaining the entire research process, experiment methodoly and results.
 
+---
+When executing the main file a window pops up with a minecraft-like world where you can move around.
+
+You can also play with the parameters to generate crazy worlds🌍.
+
+Find what each parameter does in the essay Section 4 (p. 5), and the base parameters I used as a starting point are found in Section 6 (p. 15).
+
 ## 🐍 Python Files
 ### Main
 Creates app and player properties.
