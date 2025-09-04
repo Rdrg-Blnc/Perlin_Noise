@@ -1,11 +1,12 @@
 from Perlin_Noise import PerlinNoise
 import random
 
-seed = 362
-#seed = random.randint(0, 1000)
+# use a chosen or random seed
+#seed = 001
+seed = random.randint(0, 1000)
 frequency = 55
-amplitude = 9
-octaves = 7
+amplitude = 5
+octaves = 1
 
 
 class Perlin:
@@ -23,3 +24,4 @@ class Perlin:
         y = self.pNoise([x/self.frequency, z/self.frequency]) * self.amplitude
 
         return y
+
